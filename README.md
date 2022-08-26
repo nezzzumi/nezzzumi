@@ -4,3 +4,5 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iShi0n&theme=tokyonight&count_private=true&layout=compact" />
   </div>
 </div>
+
+![](https://hit.yhype.me/github/profile?user_id=46503804)
