@@ -16,7 +16,7 @@ Currently working as a back-end developer and playing some CTFs.
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iShi0n&theme=tokyonight&count_private=true&layout=compact" />
     </p>
     <p align="center">
-      <a href="https://app.hackthebox.com/profile/869590">
+      <a href="https://app.hackthebox.com/profile/869590" target="_blank">
         <img src="https://www.hackthebox.com/badge/image/869590">
       </a>
     </p>
