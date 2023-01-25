@@ -1,4 +1,4 @@
-## Nice to see you! 👀
+## 👀
 
 Currently working as a back-end developer and playing some CTFs.
 
