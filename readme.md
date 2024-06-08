@@ -13,4 +13,4 @@
 ![](https://hit.yhype.me/github/profile?user_id=46503804)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/nezzzumi/nezzzumi/assets/46503804/6016fd5c-1690-4267-bf1d-c73bbd6bb9ce');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/nezzzumi/nezzzumi/assets/46503804/6016fd5c-1690-4267-bf1d-c73bbd6bb9ce');]{x0000}$}
